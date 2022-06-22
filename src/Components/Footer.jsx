@@ -41,8 +41,7 @@ function Footer() {
                 </div>
                 <div className="credits">
                     <h4>Designed & Developed By 
-                        <a href="/" className="heading" rel="noreferrer" target="_blank">Bhumika & Saloni</a> 
-                        | &copy; 2021 All Rights reserved.
+                        <a href="/" className="heading" rel="noreferrer" target="_blank">Bhumika & Saloni</a>
                     </h4>
                 </div>
             </div>      
